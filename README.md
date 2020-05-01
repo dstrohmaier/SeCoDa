@@ -2,14 +2,14 @@
 
 Repository for the SeCoDa dataset
 
-Main data are found in SeCoDa.tsv. The file is structured as follows.
+Main data are found in SeCoDa.tsv. The columns are structured as follows.
 
-First column: token to be disambiguated.
-Second column: offset start for token in context
-Third column: offset end for token in context
-Fourth column: context (sentence in which token occurs)
-Fifth column: selected sense
-Sixth column: comments (also contains MWE information)
+1. Token to be disambiguated.
+2. Offset start for token in context
+3. Offset end for token in context
+4. Context (sentence in which token occurs)
+5. Selected sense
+6. Comments (also contains MWE information)
 
 Example:
 
