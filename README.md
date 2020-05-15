@@ -1,6 +1,19 @@
 # SeCoDa [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Repository for the SeCoDa dataset
+Repository for the Sense Complexity Dataset (SeCoDa)
+
+
+# Paper
+
+For more information on the SeCoDa, see the [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.730.pdf).
+
+Publications using this dataset must include a reference to the following publication:
+
+<pre>
+SeCoDa: Sense Complexity Dataset. David Strohmaier, Sian Gooding, Shiva Taslimipoor, Ekaterina Kochmar. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020), pages 5964–5969 
+<\pre>
+
+# Repository Content
 
 Main data are found in SeCoDa.tsv. The columns are structured as follows.
 
