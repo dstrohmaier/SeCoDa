@@ -11,7 +11,7 @@ Publications using this dataset must include a reference to the following public
 
 <pre>
 SeCoDa: Sense Complexity Dataset. David Strohmaier, Sian Gooding, Shiva Taslimipoor, Ekaterina Kochmar. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020), pages 5964–5969, Marseille, 11–16 May 2020
-<\pre>
+</pre>
 
 # Repository Content
 
