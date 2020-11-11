@@ -35,6 +35,8 @@ Example:
 
 The senses are drawn from the [Cambridge Advanced Learner's Dictionary](https://dictionary.cambridge.org).
 
+*UPDATE* Two missing entries have been added and typos in comments have been corrected.
+
 This work is licensed under a [Creative Commons Attribution-NonCommerial-ShareAlike 4.0
 International License][cc-by-nc-sa].
 
