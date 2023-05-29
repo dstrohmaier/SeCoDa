@@ -19,7 +19,7 @@ The dataset is based on the earlier CWIG3G2 dataset, see the [paper](https://acl
 Seid Muhie Yimam, Sanja Štajner, Martin Riedl, and Chris Biemann (2017): CWIG3G2 - Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP 2017). Taipei, Taiwan
 </pre>
 
-The complexity data can be found in the CWIG3G2 dataset and combined with the senses provided by SeCoDa. 
+The complexity data can be found in the CWIG3G2 dataset and combined with the senses provided by SeCoDa.
 
 # Repository Content
 
@@ -55,3 +55,15 @@ International License][cc-by-nc-sa].
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+
+---
+language:
+  - en
+tags:
+- wsd
+- lexical_complexity
+license: cc-by-nc-sa-4.0
+metrics:
+- f1
+---
