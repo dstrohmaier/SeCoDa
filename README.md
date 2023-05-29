@@ -60,10 +60,13 @@ International License][cc-by-nc-sa].
 ---
 language:
   - en
+
 tags:
 - wsd
 - lexical_complexity
+
 license: cc-by-nc-sa-4.0
+
 metrics:
 - f1
 ---
